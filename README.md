@@ -1,2 +1,2 @@
-# appsyncemasterglass-backend
+# appsyncemasterclass-backend
 Backend for Demo App
